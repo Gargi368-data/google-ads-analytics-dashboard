@@ -1,0 +1,13 @@
+week_start,campaign,ad_group,impressions,clicks,cost,conversions,device,location,channel
+2025-10-01,Search Brand,Brand Group,21000,1050,31500,140,Mobile,India,Search
+2025-10-08,Search Brand,Brand Group,22500,1120,33500,155,Mobile,India,Search
+2025-10-15,Search Brand,Brand Group,24000,1180,36000,170,Desktop,India,Search
+2025-10-22,Search Brand,Brand Group,25500,1250,38500,185,Mobile,India,Search
+2025-11-01,Search Brand,Brand Group,27000,1320,41000,200,Mobile,India,Search
+2025-11-08,Search Brand,Brand Group,28500,1400,43500,215,Desktop,India,Search
+2025-11-15,Search Brand,Brand Group,30000,1480,46000,230,Mobile,India,Search
+2025-11-22,Search Brand,Brand Group,31500,1550,48500,245,Mobile,India,Search
+2025-12-01,Search Brand,Brand Group,33000,1620,51000,260,Desktop,India,Search
+2025-12-08,Search Brand,Brand Group,34500,1700,54000,280,Mobile,India,Search
+2025-12-15,Search Brand,Brand Group,36000,1780,57000,300,Mobile,India,Search
+2025-12-22,Search Brand,Brand Group,37500,1850,60000,320,Desktop,India,Search
