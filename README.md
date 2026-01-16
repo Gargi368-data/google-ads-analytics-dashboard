@@ -63,6 +63,27 @@ An executive-level marketing performance dashboard that enables:
 screenshots/Screenshot (144).png
 
 MFLP-48: Add project summary for resume and portfolio
+This project contains an end-to-end analytics dashboard for Google Ads data.
+
+## Features
+- Data ingestion from Google Ads API
+- Data storage in Supabase / PostgreSQL
+- Data modeling and transformations
+- Interactive dashboard with key KPIs
+- Campaign performance analysis
+- ROI and conversion tracking
+
+## Tech Stack
+- SQL (PostgreSQL / Supabase)
+- Power BI 
+- GitHub
+- Jira for project tracking
+
+## Author
+Gargi
+
+
+
 
 
 
