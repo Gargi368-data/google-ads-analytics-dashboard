@@ -62,6 +62,7 @@ An executive-level marketing performance dashboard that enables:
 ## 📸 Dashboard Preview
 screenshots/Screenshot (144).png
 
+MFLP-48: Add project summary for resume and portfolio
 This project contains an end-to-end analytics dashboard for Google Ads data.
 
 ## Features
